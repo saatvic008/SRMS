@@ -1,0 +1,16 @@
+STUDENT REPORT
+Roll: 745
+Name: Mohith Gokul Reddy
+
+Subject                   T      L      Attendance    
+Discrete Mathematics        87.0      - 42/50  ( 84.0%)
+Digital Electronics         78.0      - 43/50  ( 86.0%)
+OOPS Theory                 70.0   80.0 50/55  ( 90.9%)
+DAA Theory                  90.0   10.0 60/62  ( 96.8%)
+Open Elective               35.0      - 23/23  (100.0%)
+Coding Skills                0.0      - 26/25  (104.0%)
+Problem Solving             80.0      - 28/29  ( 96.6%)
+
+Total: 530.0 / 900.0
+Percentage: 58.89%
+Grade: D
